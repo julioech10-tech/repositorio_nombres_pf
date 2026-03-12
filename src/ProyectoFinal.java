@@ -28,6 +28,7 @@ public class ProyectoFinal {
         System.out.println("\nNombre del cliente: " + nombre);
         System.out.println("Total compras: " + total);
         System.out.println("Promedio compras: " + promedio);
+        System.out.println("Programa actualizada para Jenkins");
 
     }
 }
